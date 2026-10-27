@@ -1,2 +1,8 @@
+https://whx404.github.io/about/index.html
 https://whx404.github.io/2026/10/01/hello-world/
+https://whx404.github.io/categories/index.html
+https://whx404.github.io/tags/index.html
 https://whx404.github.io/
+https://whx404.github.io/tags/Hexo/
+https://whx404.github.io/tags/%E5%8D%9A%E5%AE%A2/
+https://whx404.github.io/categories/%E8%AE%B0%E5%BD%95/
